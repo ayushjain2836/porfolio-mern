@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afecbbdd.css",
+    "main.js": "/static/js/main.bf9b8f34.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Screenshot 2023-09-29 153903.png": "/static/media/Screenshot 2023-09-29 153903.22c8b6b83d10c17d46ed.png",
+    "static/media/Ayush Jain resume.pdf": "/static/media/Ayush Jain resume.e63702cf0c61ff452879.pdf",
+    "static/media/01.png": "/static/media/01.c3e21b90fc62177ee251.png",
+    "index.html": "/index.html",
+    "main.afecbbdd.css.map": "/static/css/main.afecbbdd.css.map",
+    "main.bf9b8f34.js.map": "/static/js/main.bf9b8f34.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afecbbdd.css",
+    "static/js/main.bf9b8f34.js"
+  ]
+}
